@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import LoginPage from './components/pages/LoginPage';
+import LoginPage from './components/pages/login/LoginPage';
 
 function App() {
   return (
